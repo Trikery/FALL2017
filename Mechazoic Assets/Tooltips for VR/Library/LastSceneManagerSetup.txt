@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VRTK/Examples/029_Controller_Tooltips.unity
+  isLoaded: 1
+  isActive: 1
